@@ -1,4 +1,4 @@
-Bonjour Mme Chataing,
+Projet laravel (ISI2) 3A info 2019
 
 Pour le bon fonctionnement du site Hamamet, il faut tout d'abord exécuter le fichier "scriptHamamet.sql" qui se trouve dans le dossier "db" du projet. La base de données s'appelle "Hamamet". la commande pour l'exécuter est : "sudo mysql -u root -p < scriptHamamet.sql" car le login est "root" et il n'y a pas de mot de passe (réappuyer sur Entrée).
 
